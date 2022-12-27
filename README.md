@@ -11,6 +11,7 @@ The code was implemented on MATLAB 2021a. The following MATLAB packages were use
 <li><a href="https://se.mathworks.com/products/computer-vision.html">Computer Vision Processing Toolbox </li>
 <li><a href="https://se.mathworks.com/products/deep-learning.html">Deep Learning Toolbox </li>
 <li><a href="https://github.com/bayesnet/bnt"> Bayesian Network Toolbox </a></li>
+<li><a href="https://se.mathworks.com/products/parallel-computing.html"> Parallel Computing Toolbox </a></li>
 
 ### Usage
 <ol type="1">
