@@ -16,6 +16,7 @@ The code was implemented on MATLAB 2021a. The following MATLAB packages were use
 ### Usage
 <ol type="1">
   <li> Ensure the dataset and the downloaded Bayes network toolbox are present in the working directory </li>
-  <li> Execute the MATLAB live script main.mlx within MATLAB. </li>
-  <li> TBD </li>
+  <li> To perform classification using Bayesian Networks, execute the MATLAB live script textureBN.mlx within MATLAB. </li>
+  <li> To perform classification using neural networks, execute the MATLAB live script textureCNN.mlx within MATLAB. </li>
+  <li> The confusion chart and accuracy numbers for the above chosen approach will be presented. </li>
 </ol>
